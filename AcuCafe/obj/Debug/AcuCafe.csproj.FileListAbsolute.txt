@@ -1,0 +1,4 @@
+C:\Users\yasa\Dropbox\AcuCafe\AcuCafe\AcuCafe\AcuCafe\bin\Debug\AcuCafe.dll
+C:\Users\yasa\Dropbox\AcuCafe\AcuCafe\AcuCafe\AcuCafe\bin\Debug\AcuCafe.pdb
+C:\Users\yasa\Dropbox\AcuCafe\AcuCafe\AcuCafe\AcuCafe\obj\Debug\AcuCafe.dll
+C:\Users\yasa\Dropbox\AcuCafe\AcuCafe\AcuCafe\AcuCafe\obj\Debug\AcuCafe.pdb

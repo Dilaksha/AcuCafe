@@ -1,0 +1,7 @@
+C:\Users\yasa\Dropbox\AcuCafe\AcuCafe\AcuCafe\AcuCafeTest\bin\Debug\AcuCafeTest.dll
+C:\Users\yasa\Dropbox\AcuCafe\AcuCafe\AcuCafe\AcuCafeTest\bin\Debug\AcuCafeTest.pdb
+C:\Users\yasa\Dropbox\AcuCafe\AcuCafe\AcuCafe\AcuCafeTest\bin\Debug\AcuCafe.dll
+C:\Users\yasa\Dropbox\AcuCafe\AcuCafe\AcuCafe\AcuCafeTest\bin\Debug\AcuCafe.pdb
+C:\Users\yasa\Dropbox\AcuCafe\AcuCafe\AcuCafe\AcuCafeTest\obj\Debug\AcuCafeTest.csprojResolveAssemblyReference.cache
+C:\Users\yasa\Dropbox\AcuCafe\AcuCafe\AcuCafe\AcuCafeTest\obj\Debug\AcuCafeTest.dll
+C:\Users\yasa\Dropbox\AcuCafe\AcuCafe\AcuCafe\AcuCafeTest\obj\Debug\AcuCafeTest.pdb
